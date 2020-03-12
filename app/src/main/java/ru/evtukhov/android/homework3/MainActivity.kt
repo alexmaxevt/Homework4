@@ -6,8 +6,8 @@ import android.net.Uri
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import dpo.Post
-import dpo.PostEvent
+import ru.evtukhov.android.homework3.dpo.Post
+import ru.evtukhov.android.homework3.dpo.PostEvent
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

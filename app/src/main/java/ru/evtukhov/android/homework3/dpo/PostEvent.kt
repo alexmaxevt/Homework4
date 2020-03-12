@@ -1,4 +1,4 @@
-package dpo
+package ru.evtukhov.android.homework3.dpo
 
 class PostEvent (
     val id: Long,
